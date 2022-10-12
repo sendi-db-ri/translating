@@ -1,0 +1,185 @@
+{
+  "banks": {
+    "button": {
+      "moreBanks": "moreBanks",
+      "useAnother": "useAnother"
+    }
+  },
+  "banksSearch": {
+    "title": {
+      "funding": "linkSpendingAccount",
+      "nonFunding": "linkFundingAccount"
+    },
+    "input": "searchMore",
+    "text": {
+      "result": "result",
+      "showing": "showing"
+    }
+  },
+  "forms": {
+    "changePasswordForm": {
+      "changePassword": "changePassword",
+      "confirmNewPassword": "confirmNewPassword",
+      "currentPassword": "currentPassword",
+      "newPassword": "newPassword",
+      "passwordSuccessfully": "passwordSuccessfully",
+      "save": "save",
+      "securityAnswer": "securityAnswer"
+    },
+    "profileForm": {
+      "address": "address",
+      "addressTwo": "addressTwo",
+      "birthPlace": "birthPlace",
+      "confirmChanges": "confirmChanges",
+      "correspondenceAddress": "correspondenceAddress",
+      "correspondenceCityName": "correspondenceCityName",
+      "CRS": "CRS",
+      "educationalBackground": "educationalBackground",
+      "email": "email",
+      "examption": "examption",
+      "financial": "financial",
+      "fullName": "fullName",
+      "fundSource": "fundSource",
+      "gender": "gender",
+      "idNumber": "idNumber",
+      "investmentObjective": "investmentObjective",
+      "investmentPeriod": "investmentPeriod",
+      "legalFirst": "legalFirst",
+      "legalLast": "legalLast",
+      "meritial": "meritial",
+      "more": "more",
+      "myProfile": "myProfile",
+      "numberExemption": "numberExemption",
+      "occupation": "occupation",
+      "ourRecords": "ourRecords",
+      "personal": "personal",
+      "phone": "phone",
+      "poorKTP": "poorKTP",
+      "postCode": "postCode",
+      "province": "province",
+      "provinceKTP": "provinceKTP",
+      "religion": "religion",
+      "required": "required",
+      "riskProfile": "riskProfile",
+      "state": "state",
+      "streetNumber": "streetNumber",
+      "suburb": "suburb",
+      "successfullyUpdateProfile": "successfullyUpdateProfile",
+      "tfn": "tfn",
+      "tfnNumber": "tfnNumber",
+      "updateProfile": "updateProfile",
+      "usCitizen": "usCitizen"
+    },
+    "smsfForm": {
+      "aBNFund": "aBNFund",
+      "acnTrustee": "acnTrustee",
+      "addAnotherDirector": "addAnotherDirector",
+      "addressFund": "addressFund",
+      "addressTrustee": "addressTrustee",
+      "city": "city",
+      "dateOfBirth": "dateOfBirth",
+      "displayNameFund": "displayNameFund",
+      "email": "email",
+      "establishmentFund": "establishmentFund",
+      "firstName": "firstName",
+      "information": "information",
+      "lastName": "lastName",
+      "legalName": "legalName",
+      "memberDirector": "memberDirector",
+      "nameTrustee": "nameTrustee",
+      "postCode": "postCode",
+      "saveMember": "saveMember",
+      "smsfAccount": "smsfAccount",
+      "state": "state",
+      "streetName": "streetName",
+      "streetNumber": "streetNumber"
+    }
+  },
+  "fundingAccountView": {
+    "accountMustBeCredit": "accountMustBeCredit",
+    "addAnotherCard": "addAnotherCard",
+    "addFunding": "addFunding",
+    "addFundingAccount": "addFundingAccount",
+    "cardStars": "cardStars",
+    "change": "change",
+    "changingMayDelay": "changingMayDelay",
+    "chooseBankSpending": "chooseBankSpending",
+    "forYour": "forYour,",
+    "fundingAccount": "fundingAccount",
+    "linkFundingAccount": "linkFundingAccount",
+    "secured": "secured",
+    "selectThe": "selectThe",
+    "verified": "verified"
+  },
+  "legal": {
+    "accountOpeningAgreement": "accountOpeningAgreement",
+    "disclosures": "disclosures",
+    "legal": "legal",
+    "privacyPolicy": "privacyPolicy",
+    "productDisclosure": "productDisclosure",
+    "termsConditions": "termsConditions"
+  },
+  "profileMenu": {
+    "changePassword": "changePassword",
+    "fundingAccount": "fundingAccount",
+    "myProfile": "myProfile",
+    "smsfAccount": "smsfAccount",
+    "spendingAccount": "spendingAccount",
+    "statements": "statements",
+    "support": "support",
+    "withdrawalAccount": "withdrawalAccount"
+  },
+  "spendingAccountView": {
+    "addSpendingAccount": "addSpendingAccount",
+    "cardStars": "cardStars",
+    "chooseBank": "chooseBank",
+    "linkSpendingAccount": "linkSpendingAccount",
+    "pilihAkunDibawah": "pilihAkunDibawah",
+    "secured": "secured",
+    "spendingAccount": "spendingAccount",
+    "spendingAccountTitle": "spendingAccountTitle",
+    "unlink": "unlink"
+  },
+  "subAccounts": {
+    "addMoreSpendingAccount": "Add Another Spending Account",
+    "unlinkConfirmation": "Are you sure you want to unlink your account",
+    "subAccounts": {
+      "cancel": "cancel",
+      "connect": "connect",
+      "different": "different",
+      "linkFunding": "linkFunding",
+      "ok": "ok",
+      "unlink": "unlink",
+      "unlinkAccount": "unlinkAccount"
+    }
+  },
+  "support": {
+    "support": {
+      "closeAccount": "closeAccount",
+      "contactSupport": "contactSupport",
+      "contactSupportToClose": "contactSupportToClose",
+      "faq": "faq",
+      "fees": "fees",
+      "legal": "legal",
+      "offsettersUnsubscribe": "offsettersUnsubscribe",
+      "security": "security",
+      "support": "support"
+    }
+  },
+  "withdrawalAccountView": {
+    "addWithdrawal": "addWithdrawal",
+    "addWithdrawalAccount": "addWithdrawalAccount",
+    "areYouSure": "areYouSure",
+    "cancel": "cancel",
+    "change": "change",
+    "chooseBankWithdrawal": "chooseBankWithdrawal",
+    "linkwithdrawalAccount": "linkwithdrawalAccount",
+    "ok ": "ok ",
+    "pleaseAdd": "pleaseAdd",
+    "pleaseNote": "pleaseNote",
+    "secured": "secured",
+    "selectThe": "selectThe",
+    "verified": "verified",
+    "withdrawalAccount": "withdrawalAccount"
+  }
+}

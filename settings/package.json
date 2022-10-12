@@ -1,0 +1,14 @@
+{
+  "name": "translating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flat": "^5.0.2"
+  }
+}
